@@ -1,0 +1,25 @@
+{
+  "name": "koonkaikub-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/koonkaikub/koonkaikub-bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/koonkaikub/koonkaikub-bot/issues"
+  },
+  "homepage": "https://github.com/koonkaikub/koonkaikub-bot#readme",
+  "dependencies": {
+    "@discordjs/rest": "^0.4.1",
+    "discord-api-types": "^0.33.1",
+    "discord.js": "^13.7.0"
+  }
+}
